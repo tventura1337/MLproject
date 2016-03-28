@@ -1,4 +1,4 @@
-%sigmoid function used for logistic regression
+% sigmoid function used for logistic regression
 function a = sigmoid(z)
 
 a = zeros(size(z));
